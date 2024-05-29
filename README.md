@@ -28,7 +28,7 @@ The challenge was to create a responsive data storage component for Fylo. The co
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/Deepanshu1337/fylo-data-storage-component-master)
-- Live Site URL: [Live Demo](https://your-live-demo-url.com)
+- Live Site URL: [Live Demo](https://deepanshu1337.github.io/fylo-data-storage-component-master/)
 
 ## My process
 
